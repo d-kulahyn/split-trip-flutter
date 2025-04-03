@@ -34,13 +34,3 @@
 - Payment integration to help you pay off your debts faster
 
 ---
-
-## 🛠 Tech Stack
-
-- **Flutter** & **Dart**
-- State management: *Provider / Riverpod / Bloc* (specify what you're using)
-- Backend: *Firebase / REST API / SQLite* (specify your choice)
-- Local or cloud storage
-- CI/CD: *GitHub Actions* (if any)
-
----
