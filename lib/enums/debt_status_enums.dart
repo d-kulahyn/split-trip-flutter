@@ -1,0 +1,1 @@
+enum DebtStatusEnums { pending, paid }

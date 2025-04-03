@@ -1,0 +1,2 @@
+/Users/dimakulahyn/StudioProjects/split_trip/android/app/.cxx/Debug/c5f3x3c1/x86_64/CMakeFiles/edit_cache.dir
+/Users/dimakulahyn/StudioProjects/split_trip/android/app/.cxx/Debug/c5f3x3c1/x86_64/CMakeFiles/rebuild_cache.dir
