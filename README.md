@@ -1,16 +1,43 @@
-# split_trip
+# 💸 SplitTrip — Group Expense & Debt Tracker
 
-A new Flutter project.
+**SplitTrip** is a simple and intuitive app for tracking shared expenses and debts within a group. Perfect for trips, events, shared households, or any situation where you need to keep track of who owes what.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center">
+  <img src="screenshots/img.png" width="200" />
+  <img src="screenshots/img_1.png" width="200" />
+  <img src="screenshots/img_2.png" width="200" />
+  <img src="screenshots/img_3.png" width="200" />
+  <img src="screenshots/img_4.png" width="200" />
+  <img src="screenshots/img_5.png" width="200" />
+  <img src="screenshots/img_6.png" width="200" />
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Features
+
+- Create groups with multiple members
+- Add expenses: who paid, for whom
+- Automatic calculation of individual balances
+- View full history of transactions
+- Multi-currency support 💱
+- Notifications for new debts
+- Clean and user-friendly mobile UI
+- Scanning receipts
+- Payment integration to help you pay off your debts faster
+
+---
+
+## 🛠 Tech Stack
+
+- **Flutter** & **Dart**
+- State management: *Provider / Riverpod / Bloc* (specify what you're using)
+- Backend: *Firebase / REST API / SQLite* (specify your choice)
+- Local or cloud storage
+- CI/CD: *GitHub Actions* (if any)
+
+---
