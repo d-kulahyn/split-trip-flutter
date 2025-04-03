@@ -7,7 +7,10 @@
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="screenshots/img.png" width="200" />
+  <img src="screenshots/img_7.png" width="200" />
+  <img src="screenshots/img_8.png" width="200" />
+  <img src="screenshots/img_9.png" width="200" />
+  <img src="screenshots/img_10.png" width="200" />
   <img src="screenshots/img_1.png" width="200" />
   <img src="screenshots/img_2.png" width="200" />
   <img src="screenshots/img_3.png" width="200" />
